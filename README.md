@@ -1,5 +1,5 @@
 # my-mechatronics-projects
 Repository for all my Mechatronics I & II (MECH 207/208) projects under Prof. Christopher Kitts. 
-- Mechatronics I Final Project  *The objective of this project was to demonstrate basic sensing/control/actuation knowledge and hardware/electronics skills in a simple, functional end-to-end system.
+- Mechatronics I Final Project  *The objective of this project was to demonstrate basic sensing/control/actuation knowledge and hardware/electronics skills in a simple, functional end-to-end system (Penny Arcade Machine).
 - Mechatronics II Final Project  * The purpose of this project was to develop a complete mechatronic control system that uses linear control principles, and state machine controllers/sequencers, to control a challenging dynamic 2nd plant with macroscopic physical motion.
 
